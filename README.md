@@ -1,0 +1,2 @@
+# budget-optimal-task-allocation-crowdsourcing
+A Python implementation and experimental analysis of Karger, Oh, and Shah (2014): *Budget-Optimal Task Allocation for Reliable Crowdsourcing Systems*.
